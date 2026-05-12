@@ -27,10 +27,11 @@ author:
   name             : "Christopher Marcatili"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Ngunnawal/Ngambri, Canberra, Australia"
+  location         : "Canberra, Australia"
   school           : "Australian National University"
-  uri              : # URL
+  website          : "https://christophermarcatili.com/"
   email            : "christopher.marcatili@anu.edu.au" 
+  ANU profile      : "https://archanth.cass.anu.edu.au/people/christopher-marcatili"
 
   # Academic websites
   academia         : # URL
